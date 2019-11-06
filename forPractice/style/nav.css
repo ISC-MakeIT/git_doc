@@ -20,3 +20,13 @@ li{
     color: red;
     background-color: green;
 }
+
+li:after{
+    content: '★★';
+    color: blue;
+}
+
+li:before{
+    content: '★★';
+    color: yellow;
+}
