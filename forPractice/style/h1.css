@@ -1,5 +1,6 @@
 h1 {
-  font-size: 60px;
-  font-family: 'Yu Mincho';
-  color: gold;
+  font-size: 1000px;
+  color: red;
+  background-color: red;
+  display: none;
 }
