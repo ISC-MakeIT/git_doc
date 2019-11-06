@@ -1,7 +1,15 @@
 h1 {
-  font-size: 1000px;
-  color: red;
-  background-color: red;
-  display: none;
+  font-size: 60px;
+  font-family: 'Yu Mincho';
+  color: gold;
+  background-color: silver;
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
-
+h1:hover {
+  color: red;
+  background-color: blue;
+}
